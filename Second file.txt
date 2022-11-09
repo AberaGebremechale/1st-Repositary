@@ -1,2 +1,6 @@
 we will keep up the good work.
+<<<<<<< HEAD
 tommorow we have class.
+=======
+Hello class.
+>>>>>>> 3fb1755d0cd01dc820a0fea884901c5248fa653e
